@@ -2,8 +2,6 @@
 
 A fitness website that offers a variety of workout routines, nutrition tips, and wellness resources.
 
-![SweatZone Preview](https://sweatzone.netlify.app/)
-
 ## Table of Contents
 
 - [About](#about)
